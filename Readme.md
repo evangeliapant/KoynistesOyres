@@ -1,6 +1,6 @@
 # "Animal Welfare Website"
 
-##Assignment Details
+## Assignment Details
 
 Name: "Charity Website with Bootstrap & Dreamweaver"
 Course: Responsive Web Design with Bootstrap & Dreamweaver
@@ -9,11 +9,11 @@ Educational Institute: National and Kapodistrian University of Athens
 Year: 2020
 Content Language: Greek
 
-##Technologies Used
+## Technologies Used
 
 HTML5, CSS3, Bootstrap 4, Dreamweaver, Photoshop, Javascript
 
-##Features
+## Features
 
 -Home Page
 -About Us Page
